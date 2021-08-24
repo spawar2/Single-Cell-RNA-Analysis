@@ -1,0 +1,6 @@
+op_dir	dl	names	species	project_name
+analysisaug172020/analysisb3all	./data/A330V,./data/CTRL,./data/G98R,./data/M1549V,./data/R172Q	A330V,CTRLB3,G98R,M1549V,R172Q	Human	b3all
+analysisaug172020/ana3c2a330v	./data/A330V,./data/CTRL	A330V,CTRLB3	Human	b3c2a330v
+analysisaug172020/ana3c2g98r	./data/CTRL,./data/G98R	CTRLB3,G98R	Human	b3c2g98r
+analysisaug172020/ana3c2a1549v	./data/CTRL,./data/M1549V	CTRLB3,M1549V	Human	b3c2m1549v
+analysisaug172020/ana3c2r179q	./data/CTRL,./data/R172Q	CTRLB3,R172Q	Human	b3c2r172q
